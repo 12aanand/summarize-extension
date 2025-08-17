@@ -13,3 +13,7 @@ This tool is designed to help students, professionals, and researchers boost pro
 ✅ Performance Optimized – Reduced server requests by 40%, making it lightweight and fast.
 ✅ User-Friendly Interface – Clean, minimal, and intuitive design.
 ✅ Cross-Website Support – Works on any website with selected text.
+
+Here is a Extenstion
+
+![image alt](https://github.com/12aanand/summarize-extension/blob/main/Screenshot%202025-08-17%20201247.png)
