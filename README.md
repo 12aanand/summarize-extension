@@ -17,3 +17,6 @@ This tool is designed to help students, professionals, and researchers boost pro
 Here is a Extenstion
 
 ![image alt](https://github.com/12aanand/summarize-extension/blob/main/Screenshot%202025-08-17%20201247.png)
+
+Example -  Summarizing the selected text
+![image alt]()
