@@ -19,4 +19,7 @@ Here is a Extenstion
 ![image alt](https://github.com/12aanand/summarize-extension/blob/main/Screenshot%202025-08-17%20201247.png)
 
 Example -  Summarizing the selected text
+![image alt](https://github.com/12aanand/summarize-extension/blob/main/Screenshot%202025-08-17%20201024.png)
+
+Example with DSA articles
 ![image alt]()
