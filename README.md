@@ -22,4 +22,7 @@ Example -  Summarizing the selected text
 ![image alt](https://github.com/12aanand/summarize-extension/blob/main/Screenshot%202025-08-17%20201024.png)
 
 Example with DSA articles
+![image alt](https://github.com/12aanand/summarize-extension/blob/main/Screenshot%202025-08-17%20202606.png)
+
+Another features - Saved Notes Section
 ![image alt]()
