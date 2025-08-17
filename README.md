@@ -25,4 +25,10 @@ Example with DSA articles
 ![image alt](https://github.com/12aanand/summarize-extension/blob/main/Screenshot%202025-08-17%20202606.png)
 
 Another features - Saved Notes Section
-![image alt]()
+![image alt](https://github.com/12aanand/summarize-extension/blob/main/Screenshot%202025-08-17%20201324.png)
+
+🛠️ Tech Stack
+Java (Spring Boot) – Backend API
+AI Models – Summarization & gemini API
+Chrome Extension – Frontend browser integration
+JavaScript / HTML / CSS – Extension UI
